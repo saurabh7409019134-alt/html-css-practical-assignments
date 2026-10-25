@@ -7,4 +7,4 @@ The following plan is prepared; it does not claim that commits have been created
 3. `feat: add CSS layout practicals` — Tasks 21–40.
 4. `feat: complete responsive landing page and audit docs` — Tasks 41–45 and final checks.
 
-This project has four real local commits, pushed to the private GitHub repository linked in Task 5. Its repository-only author identity uses the GitHub account name and ID-based `noreply` address, so the private account email is not included in commit metadata. The commit history is real; inspect it with `git log --oneline`. The messages above match the completed milestones.
+This project has a real local commit history, pushed to the private GitHub repository linked in Task 5. Its repository-only author identity uses the GitHub account name and ID-based `noreply` address, so the private account email is not included in commit metadata. The commit history is real; inspect it with `git log --oneline`. The messages above match the completed milestones.
