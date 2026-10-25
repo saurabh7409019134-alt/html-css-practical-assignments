@@ -17,7 +17,7 @@ Open `index.html` in a browser, or open this folder in Visual Studio Code and us
 
 ## Important preparation notes
 
-Tasks 2, 4, and 5 contain prepared instructions and plans. You still need to verify your own VS Code, Node.js, and Live Server setup, capture genuine screenshots, create real Git commits, create a GitHub repository, authenticate, push, and share its actual URL. No software installation or screenshot is claimed. This folder contains real local Git history; it has not yet been pushed to a GitHub remote.
+Task 4 has four real local commits. The project is pushed to the private GitHub repository [`saurabh7409019134-alt/html-css-practical-assignments`](https://github.com/saurabh7409019134-alt/html-css-practical-assignments). Tasks 2 and 26 still need your genuine setup and developer-tools screenshots; none are fabricated. Because the repository is private, invite your faculty member or change its visibility only if your course requires it.
 
 Forms are front-end demonstrations only. They do not save data or send it to a server. Replace bracketed placeholders with accurate details before submission. The supplied PDF did not include a buggy source file or a landing-page reference, so Task 9 contains a clearly labeled illustrative bug and Task 43 is an original design.
 

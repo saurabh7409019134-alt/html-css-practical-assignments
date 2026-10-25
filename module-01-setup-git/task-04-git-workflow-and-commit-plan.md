@@ -7,4 +7,4 @@ The following plan is prepared; it does not claim that commits have been created
 3. `feat: add CSS layout practicals` — Tasks 21–40.
 4. `feat: complete responsive landing page and audit docs` — Tasks 41–45 and final checks.
 
-This project has a local repository with four real commits. Its repository-only author identity uses the GitHub account name and ID-based `noreply` address, so the private account email is not included in the commit metadata. To use a different identity, run `git config user.name "Your Name"` and `git config user.email "your-email@example.com"` in this repository. Use `git status` before staging, `git diff --check` to catch whitespace issues, and `git log --oneline` to review the commits that exist. The messages above describe the staged milestones.
+This project has four real local commits, pushed to the private GitHub repository linked in Task 5. Its repository-only author identity uses the GitHub account name and ID-based `noreply` address, so the private account email is not included in commit metadata. The commit history is real; inspect it with `git log --oneline`. The messages above match the completed milestones.

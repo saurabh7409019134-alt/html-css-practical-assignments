@@ -1,5 +1,11 @@
 # Task 5 — Initialize and publish with GitHub
 
+## Completed setup
+
+The local project is initialized on `main`, has four meaningful commits, and is pushed to [the private GitHub repository](https://github.com/saurabh7409019134-alt/html-css-practical-assignments). The pushed branch and module files were confirmed in GitHub. The repository is private; invite your faculty member if they need access, or change visibility only if your course specifically requires a public repository.
+
+## Repeatable workflow reference
+
 ## Local repository
 
 From the project root, run `git init`, `git status`, `git add .`, then `git commit -m "docs: add assignment plan and setup guides"`. Continue with the meaningful milestones in Task 4. Check `git status` after each commit.
@@ -12,4 +18,4 @@ From the project root, run `git init`, `git status`, `git add .`, then `git comm
 4. Set the default branch and push: `git branch -M main` then `git push -u origin main`. GitHub may ask you to authenticate.
 5. Open the repository URL in a browser. Verify that `README.md`, `index.html`, module folders, and docs are visible. Copy the real URL into your submission form.
 
-**Requires your participation:** signing in, creating the remote repository, authenticating the push, and sharing the resulting URL. This workspace has not been pushed and no GitHub URL is claimed.
+**Still requires your participation:** share the repository link with your faculty, and grant them access if needed. The repository URL above is real; it is private.
