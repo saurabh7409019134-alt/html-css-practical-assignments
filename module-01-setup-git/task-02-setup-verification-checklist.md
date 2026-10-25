@@ -1,6 +1,6 @@
 # Task 2 — Setup verification checklist
 
-This is a prepared checklist, not proof that software is installed. Run the checks on your computer and capture your own screenshots.
+This checklist records what remains to verify. A genuine screenshot is included at `assets/screenshots/task-02-vscode-node-check.png`: it shows VS Code open and the terminal output `node --version` → `v26.8.1`. It does not show the npm version or Live Server, so capture those remaining checks on your computer.
 
 ## Check VS Code
 
