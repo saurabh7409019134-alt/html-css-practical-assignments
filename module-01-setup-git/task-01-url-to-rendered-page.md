@@ -1,0 +1,3 @@
+# Task 1 — What happens after entering a URL
+
+When you enter a URL and press Enter, the browser first checks its cache and resolves the domain through DNS to find an IP address, then opens a network connection (usually HTTPS) and sends an HTTP request. The server receives the request and returns a response with a status, headers, and page resources such as HTML. The browser parses the HTML into a document tree, discovers linked CSS, images, and scripts, requests those resources, applies CSS rules, and runs JavaScript when needed; it then calculates layout, paints pixels, and composites layers so the page appears on screen.
